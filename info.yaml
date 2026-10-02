@@ -18,8 +18,8 @@ pinout:
   # Inputs
   ui[0]: "A"
   ui[1]: "B"
-  ui[2]: "C"
-  ui[3]: "D"
+  ui[2]: ""
+  ui[3]: ""
   ui[4]: ""
   ui[5]: ""
   ui[6]: ""
