@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-2 Single AD Gates 
+1 Single AD Gates 
 
 ## How to test
 
@@ -17,4 +17,4 @@ Try every combination
 
 ## External hardware
 
-Two LED
+1 LED
